@@ -1,4 +1,4 @@
-module github.com/luzj/minify
+module github.com/luzj/minify/v3
 
 go 1.13
 
